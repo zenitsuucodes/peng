@@ -45,7 +45,7 @@
       "color": "#ca8a04"
     }
   ],
-  "generatedAt": "2026-09-24T20:45:44.794Z",
+  "generatedAt": "2026-09-24T21:07:17.336Z",
   "articles": [
     {
       "id": 1,
@@ -94,63 +94,7 @@
       "popularScore": 1000
     },
     {
-      "slug": "researchers-investigate-possible-new-species-of-pygmy-hippopotamus",
-      "title": "Researchers Investigate Possible New Species of Pygmy Hippopotamus",
-      "lead": "An unusually small hippopotamus discovered in the remote forests of Sapo National Park in southeastern Liberia has prompted an investigation into whether the animal could represent a previously undocumented species of pygmy hippopotamus.",
-      "category": "wildlife",
-      "publishedAt": "2026-09-24",
-      "readMinutes": 8,
-      "featured": true,
-      "popularScore": 1100,
-      "image": {
-        "url": "/images/maru-pygmy-hippopotamus.jpg",
-        "alt": "Maru, a very small pygmy hippopotamus, standing in shallow water"
-      },
-      "tags": [
-        "wildlife",
-        "pygmy-hippopotamus",
-        "liberia"
-      ],
-      "body": [
-        "Wildlife researchers conducting a biodiversity survey in a remote section of Sapo National Park encountered the animal near a densely forested waterway after noticing unusual tracks along the muddy riverbank.",
-        "At first, there appeared to be a straightforward explanation. The animal was extraordinarily small and closely resembled a very young pygmy hippopotamus, a species already known to inhabit Liberia’s remaining tropical forests.",
-        "But a closer examination raised questions.",
-        "Researchers found that several aspects of the animal’s physical development did not appear consistent with a pygmy hippo as young as its size suggested. Its teeth showed more advanced development, while its body displayed unusual proportions, including a shorter facial structure, compact torso and proportionally larger eyes and ears.",
-        "Those differences have prompted researchers to investigate a far more unusual possibility: the animal could belong to an isolated and previously undocumented dwarf lineage of pygmy hippopotamus.",
-        "An Exceptionally Rare Possibility",
-        "Only two living species of the hippopotamus family are recognized today: the common hippopotamus and the much smaller pygmy hippopotamus.",
-        "The pygmy hippo is native to the forests and wetlands of West Africa, with Liberia containing some of its most important remaining habitat. Unlike its much larger relative, it is secretive, largely solitary and strongly associated with dense forest, making wild populations notoriously difficult to observe.",
-        "Sapo National Park’s vast stretches of tropical rainforest and isolated waterways provide particularly difficult terrain for wildlife surveys.",
-        "That has raised the possibility that a small, geographically isolated population could have remained largely undetected.",
-        "If researchers eventually establish that the animal belongs to a distinct species, the finding would be extraordinary. While previously unknown species are described by scientists every year, the discovery of an entirely unknown living member of the hippopotamus family would be an exceptionally rare zoological event.",
-        "Researchers are nevertheless stressing that no new species has yet been confirmed.",
-        "Initially Mistaken for a Juvenile",
-        "The animal’s remarkably small stature remains one of the most intriguing aspects of the discovery.",
-        "Researchers initially assumed they were looking at a juvenile pygmy hippo. However, its apparent stage of physical development did not seem to correspond with its size.",
-        "Scientists are now examining whether its miniature proportions could instead represent an extreme form of evolutionary dwarfism.",
-        "Such a scenario could theoretically occur when a population remains geographically isolated for many generations and adapts to a particular ecological environment. Whether anything resembling that process occurred here can only be determined through considerably more research.",
-        "For now, researchers are referring to the animal as an unidentified pygmy-hippo-like specimen rather than assigning it a new species.",
-        "Maru Brought Into Care",
-        "Following the discovery, the female hippo was transferred to a specialized wildlife-care facility where veterinarians and researchers can safely observe her and conduct further examinations.",
-        "Her caretakers have named her Maru.",
-        "Maru will remain under professional veterinary supervision while the investigation continues. Researchers say examinations and sample collection will be conducted as non-invasively as possible, with her health and welfare taking priority throughout the process.",
-        "She is being provided with appropriate food, access to water, sheltered resting areas and an environment designed to minimize unnecessary stress while she adjusts to human care.",
-        "Researchers have begun collecting genetic material that can be compared with samples from known pygmy hippopotamus populations.",
-        "DNA will be particularly important. Physical differences alone are not enough to establish a new species, especially when researchers currently have only one individual available for study.",
-        "Scientists will therefore combine genetic analysis with examinations of Maru’s teeth, body proportions and other anatomical characteristics before reaching any conclusions.",
-        "Search Begins for More Animals",
-        "Meanwhile, researchers are returning their attention to the forest where Maru was discovered.",
-        "Camera traps are being placed around waterways, muddy trails and other locations where another hippo might pass. Survey teams will also search for footprints, feeding signs and other evidence that could indicate additional individuals are living in the area.",
-        "Finding another animal resembling Maru could dramatically change the investigation.",
-        "At present, researchers do not know whether she belongs to a small surviving population, represents an unusual individual within the known pygmy hippo population, or belongs to a lineage science has never documented before.",
-        "That question could take months—or potentially considerably longer—to resolve.",
-        "Until then, Maru represents an intriguing biological mystery emerging from one of West Africa’s most important remaining rainforest ecosystems.",
-        "If genetic testing ultimately confirms that she belongs to a previously unknown species, the tiny hippo discovered beside a forest waterway in Liberia could become one of the most remarkable mammal discoveries in recent history."
-      ],
-      "id": 2
-    },
-    {
-      "id": 3,
+      "id": 2,
       "slug": "smallest-kiwi-species-reappears-on-a-mainland-after-fifty-years-2",
       "title": "Smallest kiwi species reappears on a mainland after fifty years",
       "lead": "A spotted flightless bird thought to survive only on predator-free islands has been confirmed alive in remote high country.",
@@ -196,7 +140,7 @@
       "popularScore": 996
     },
     {
-      "id": 4,
+      "id": 3,
       "slug": "world-s-smallest-otter-confirmed-in-western-river-systems-3",
       "title": "World’s smallest otter confirmed in western river systems",
       "lead": "Tiny clawed otters not documented nationally for more than a century have been verified through photos and spraint analysis.",
@@ -242,7 +186,7 @@
       "popularScore": 992
     },
     {
-      "id": 5,
+      "id": 4,
       "slug": "isolated-hairstreak-butterfly-population-recognized-as-new-species-4",
       "title": "Isolated hairstreak butterfly population recognized as new species",
       "lead": "Genetic work showed a grey-brown alpine butterfly is not a known subspecies but a distinct lineage with very low diversity.",
@@ -288,7 +232,7 @@
       "popularScore": 988
     },
     {
-      "id": 6,
+      "id": 5,
       "slug": "snow-leopards-use-stone-outcrops-as-communication-billboards-5",
       "title": "Snow leopards use stone outcrops as communication billboards",
       "lead": "Motion-triggered cameras reveal big cats rubbing cheeks on fixed rocks along migration paths.",
@@ -334,7 +278,7 @@
       "popularScore": 984
     },
     {
-      "id": 7,
+      "id": 6,
       "slug": "deep-diving-whales-recover-faster-when-shipping-lanes-shift-6",
       "title": "Deep-diving whales recover faster when shipping lanes shift",
       "lead": "A five-year trial rerouting cargo vessels cut underwater noise peaks during calving season.",
@@ -380,7 +324,7 @@
       "popularScore": 980
     },
     {
-      "id": 8,
+      "id": 7,
       "slug": "arctic-terns-complete-pole-to-pole-loop-with-tiny-solar-tags-7",
       "title": "Arctic terns complete pole-to-pole loop with tiny solar tags",
       "lead": "Gram-scale trackers show some birds flew more than ninety thousand kilometers in a single year.",
@@ -426,7 +370,7 @@
       "popularScore": 976
     },
     {
-      "id": 9,
+      "id": 8,
       "slug": "shelter-dogs-adopted-in-pairs-show-lower-return-rates-8",
       "title": "Shelter dogs adopted in pairs show lower return rates",
       "lead": "A two-year intake study found bonded companions kept stress hormones lower during transport.",
@@ -472,7 +416,7 @@
       "popularScore": 972
     },
     {
-      "id": 10,
+      "id": 9,
       "slug": "firefly-sync-displays-dimmer-where-light-pollution-climbs-9",
       "title": "Firefly sync displays dimmer where light pollution climbs",
       "lead": "Long-term luminosity meters tied streetlight upgrades to shorter mating flashes.",
@@ -518,7 +462,7 @@
       "popularScore": 968
     },
     {
-      "id": 11,
+      "id": 10,
       "slug": "softshell-turtles-bask-on-floating-solar-panels-10",
       "title": "Softshell turtles bask on floating solar panels",
       "lead": "Engineers documenting reservoir arrays found reptiles using warm surfaces above water.",
@@ -564,7 +508,7 @@
       "popularScore": 964
     },
     {
-      "id": 12,
+      "id": 11,
       "slug": "octopus-stacks-stones-outside-den-like-a-garden-wall-11",
       "title": "Octopus stacks stones outside den like a garden wall",
       "lead": "Underwater video shows an individual arranging shells in a semicircle facing prevailing currents.",
@@ -610,7 +554,7 @@
       "popularScore": 960
     },
     {
-      "id": 13,
+      "id": 12,
       "slug": "corridors-link-two-jaguar-populations-across-highway-overpass-12",
       "title": "Corridors link two jaguar populations across highway overpass",
       "lead": "Vegetated bridges let large cats move without entering traffic lanes for the first time in a generation.",
@@ -656,7 +600,7 @@
       "popularScore": 956
     },
     {
-      "id": 14,
+      "id": 13,
       "slug": "elephant-matriarchs-remember-drought-water-holes-for-decades-13",
       "title": "Elephant matriarchs remember drought water holes for decades",
       "lead": "GPS collars show families returning to hidden springs not used since satellite records began.",
@@ -702,7 +646,7 @@
       "popularScore": 952
     },
     {
-      "id": 15,
+      "id": 14,
       "slug": "sea-otters-anchor-kelp-forests-against-marine-heat-waves-14",
       "title": "Sea otters anchor kelp forests against marine heat waves",
       "lead": "Where otters returned, kelp canopy cover stayed twice as high during a record warm period.",
@@ -748,7 +692,7 @@
       "popularScore": 909
     },
     {
-      "id": 16,
+      "id": 15,
       "slug": "urban-falcons-nest-on-cooling-towers-with-steady-updrafts-15",
       "title": "Urban falcons nest on cooling towers with steady updrafts",
       "lead": "Peregrine pairs chose industrial stacks over cliff faces when thermals remained predictable.",
@@ -794,7 +738,7 @@
       "popularScore": 905
     },
     {
-      "id": 17,
+      "id": 16,
       "slug": "cats-prefer-drinking-from-wide-bowls-placed-away-from-food-16",
       "title": "Cats prefer drinking from wide bowls placed away from food",
       "lead": "A controlled trial measured lapping frequency when bowl shape and location changed.",
@@ -840,7 +784,7 @@
       "popularScore": 901
     },
     {
-      "id": 18,
+      "id": 17,
       "slug": "leafcutter-ants-farm-fungus-strains-resistant-to-invading-parasites-17",
       "title": "Leafcutter ants farm fungus strains resistant to invading parasites",
       "lead": "Lab cultures show colonies swap fungal cultivars after microbe outbreaks.",
@@ -886,7 +830,7 @@
       "popularScore": 897
     },
     {
-      "id": 19,
+      "id": 18,
       "slug": "chameleon-color-change-tied-to-temperature-before-mood-18",
       "title": "Chameleon color change tied to temperature before mood",
       "lead": "Skin spectroscopy found heat regulation triggers faster than social signaling.",
@@ -932,7 +876,7 @@
       "popularScore": 893
     },
     {
-      "id": 20,
+      "id": 19,
       "slug": "crows-gift-shiny-objects-to-humans-who-feed-them-regularly-19",
       "title": "Crows gift shiny objects to humans who feed them regularly",
       "lead": "Longitudinal notes describe beads and foil left on window sills after predictable snack times.",
@@ -978,7 +922,7 @@
       "popularScore": 889
     },
     {
-      "id": 21,
+      "id": 20,
       "slug": "rewilding-project-releases-beavers-to-slow-flash-floods-20",
       "title": "Rewilding project releases beavers to slow flash floods",
       "lead": "Dam complexes in upland streams increased water retention time after heavy rain.",
@@ -1024,7 +968,7 @@
       "popularScore": 885
     },
     {
-      "id": 22,
+      "id": 21,
       "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-field-not-21",
       "title": "Long-beaked echidna filmed again after decades without records: field notes",
       "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. Researchers published additional context as follow-up surveys continued.",
@@ -1071,7 +1015,7 @@
       "popularScore": 881
     },
     {
-      "id": 23,
+      "id": 22,
       "slug": "smallest-kiwi-species-reappears-on-a-mainland-after-fifty-years-what-we--22",
       "title": "Smallest kiwi species reappears on a mainland after fifty years: what we know",
       "lead": "A spotted flightless bird thought to survive only on predator-free islands has been confirmed alive in remote high country. Researchers published additional context as follow-up surveys continued.",
@@ -1118,7 +1062,7 @@
       "popularScore": 877
     },
     {
-      "id": 24,
+      "id": 23,
       "slug": "world-s-smallest-otter-confirmed-in-western-river-systems-explainer-23",
       "title": "World’s smallest otter confirmed in western river systems: explainer",
       "lead": "Tiny clawed otters not documented nationally for more than a century have been verified through photos and spraint analysis. Researchers published additional context as follow-up surveys continued.",
@@ -1165,7 +1109,7 @@
       "popularScore": 873
     },
     {
-      "id": 25,
+      "id": 24,
       "slug": "isolated-hairstreak-butterfly-population-recognized-as-new-species-outlo-24",
       "title": "Isolated hairstreak butterfly population recognized as new species: outlook",
       "lead": "Genetic work showed a grey-brown alpine butterfly is not a known subspecies but a distinct lineage with very low diversity. Researchers published additional context as follow-up surveys continued.",
@@ -1212,7 +1156,7 @@
       "popularScore": 869
     },
     {
-      "id": 26,
+      "id": 25,
       "slug": "snow-leopards-use-stone-outcrops-as-communication-billboards-update-25",
       "title": "Snow leopards use stone outcrops as communication billboards: update",
       "lead": "Motion-triggered cameras reveal big cats rubbing cheeks on fixed rocks along migration paths. Researchers published additional context as follow-up surveys continued.",
@@ -1259,7 +1203,7 @@
       "popularScore": 865
     },
     {
-      "id": 27,
+      "id": 26,
       "slug": "deep-diving-whales-recover-faster-when-shipping-lanes-shift-field-notes-26",
       "title": "Deep-diving whales recover faster when shipping lanes shift: field notes",
       "lead": "A five-year trial rerouting cargo vessels cut underwater noise peaks during calving season. Researchers published additional context as follow-up surveys continued.",
@@ -1306,7 +1250,7 @@
       "popularScore": 861
     },
     {
-      "id": 28,
+      "id": 27,
       "slug": "arctic-terns-complete-pole-to-pole-loop-with-tiny-solar-tags-what-we-kno-27",
       "title": "Arctic terns complete pole-to-pole loop with tiny solar tags: what we know",
       "lead": "Gram-scale trackers show some birds flew more than ninety thousand kilometers in a single year. Researchers published additional context as follow-up surveys continued.",
@@ -1353,7 +1297,7 @@
       "popularScore": 818
     },
     {
-      "id": 29,
+      "id": 28,
       "slug": "shelter-dogs-adopted-in-pairs-show-lower-return-rates-explainer-28",
       "title": "Shelter dogs adopted in pairs show lower return rates: explainer",
       "lead": "A two-year intake study found bonded companions kept stress hormones lower during transport. Researchers published additional context as follow-up surveys continued.",
@@ -1400,7 +1344,7 @@
       "popularScore": 814
     },
     {
-      "id": 30,
+      "id": 29,
       "slug": "firefly-sync-displays-dimmer-where-light-pollution-climbs-outlook-29",
       "title": "Firefly sync displays dimmer where light pollution climbs: outlook",
       "lead": "Long-term luminosity meters tied streetlight upgrades to shorter mating flashes. Researchers published additional context as follow-up surveys continued.",
@@ -1447,7 +1391,7 @@
       "popularScore": 810
     },
     {
-      "id": 31,
+      "id": 30,
       "slug": "softshell-turtles-bask-on-floating-solar-panels-update-30",
       "title": "Softshell turtles bask on floating solar panels: update",
       "lead": "Engineers documenting reservoir arrays found reptiles using warm surfaces above water. Researchers published additional context as follow-up surveys continued.",
@@ -1494,7 +1438,7 @@
       "popularScore": 806
     },
     {
-      "id": 32,
+      "id": 31,
       "slug": "octopus-stacks-stones-outside-den-like-a-garden-wall-field-notes-31",
       "title": "Octopus stacks stones outside den like a garden wall: field notes",
       "lead": "Underwater video shows an individual arranging shells in a semicircle facing prevailing currents. Researchers published additional context as follow-up surveys continued.",
@@ -1541,7 +1485,7 @@
       "popularScore": 802
     },
     {
-      "id": 33,
+      "id": 32,
       "slug": "corridors-link-two-jaguar-populations-across-highway-overpass-what-we-kn-32",
       "title": "Corridors link two jaguar populations across highway overpass: what we know",
       "lead": "Vegetated bridges let large cats move without entering traffic lanes for the first time in a generation. Researchers published additional context as follow-up surveys continued.",
@@ -1588,7 +1532,7 @@
       "popularScore": 798
     },
     {
-      "id": 34,
+      "id": 33,
       "slug": "elephant-matriarchs-remember-drought-water-holes-for-decades-explainer-33",
       "title": "Elephant matriarchs remember drought water holes for decades: explainer",
       "lead": "GPS collars show families returning to hidden springs not used since satellite records began. Researchers published additional context as follow-up surveys continued.",
@@ -1635,7 +1579,7 @@
       "popularScore": 794
     },
     {
-      "id": 35,
+      "id": 34,
       "slug": "sea-otters-anchor-kelp-forests-against-marine-heat-waves-outlook-34",
       "title": "Sea otters anchor kelp forests against marine heat waves: outlook",
       "lead": "Where otters returned, kelp canopy cover stayed twice as high during a record warm period. Researchers published additional context as follow-up surveys continued.",
@@ -1682,7 +1626,7 @@
       "popularScore": 790
     },
     {
-      "id": 36,
+      "id": 35,
       "slug": "urban-falcons-nest-on-cooling-towers-with-steady-updrafts-update-35",
       "title": "Urban falcons nest on cooling towers with steady updrafts: update",
       "lead": "Peregrine pairs chose industrial stacks over cliff faces when thermals remained predictable. Researchers published additional context as follow-up surveys continued.",
@@ -1729,7 +1673,7 @@
       "popularScore": 786
     },
     {
-      "id": 37,
+      "id": 36,
       "slug": "cats-prefer-drinking-from-wide-bowls-placed-away-from-food-field-notes-36",
       "title": "Cats prefer drinking from wide bowls placed away from food: field notes",
       "lead": "A controlled trial measured lapping frequency when bowl shape and location changed. Researchers published additional context as follow-up surveys continued.",
@@ -1776,7 +1720,7 @@
       "popularScore": 782
     },
     {
-      "id": 38,
+      "id": 37,
       "slug": "leafcutter-ants-farm-fungus-strains-resistant-to-invading-parasites-what-37",
       "title": "Leafcutter ants farm fungus strains resistant to invading parasites: what we know",
       "lead": "Lab cultures show colonies swap fungal cultivars after microbe outbreaks. Researchers published additional context as follow-up surveys continued.",
@@ -1823,7 +1767,7 @@
       "popularScore": 778
     },
     {
-      "id": 39,
+      "id": 38,
       "slug": "chameleon-color-change-tied-to-temperature-before-mood-explainer-38",
       "title": "Chameleon color change tied to temperature before mood: explainer",
       "lead": "Skin spectroscopy found heat regulation triggers faster than social signaling. Researchers published additional context as follow-up surveys continued.",
@@ -1870,7 +1814,7 @@
       "popularScore": 774
     },
     {
-      "id": 40,
+      "id": 39,
       "slug": "crows-gift-shiny-objects-to-humans-who-feed-them-regularly-outlook-39",
       "title": "Crows gift shiny objects to humans who feed them regularly: outlook",
       "lead": "Longitudinal notes describe beads and foil left on window sills after predictable snack times. Researchers published additional context as follow-up surveys continued.",
@@ -1917,7 +1861,7 @@
       "popularScore": 770
     },
     {
-      "id": 41,
+      "id": 40,
       "slug": "rewilding-project-releases-beavers-to-slow-flash-floods-update-40",
       "title": "Rewilding project releases beavers to slow flash floods: update",
       "lead": "Dam complexes in upland streams increased water retention time after heavy rain. Researchers published additional context as follow-up surveys continued.",
@@ -1964,7 +1908,7 @@
       "popularScore": 727
     },
     {
-      "id": 42,
+      "id": 41,
       "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-field-not-41",
       "title": "Long-beaked echidna filmed again after decades without records: field notes",
       "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. Researchers published additional context as follow-up surveys continued.",
@@ -2011,7 +1955,7 @@
       "popularScore": 723
     },
     {
-      "id": 43,
+      "id": 42,
       "slug": "smallest-kiwi-species-reappears-on-a-mainland-after-fifty-years-what-we--42",
       "title": "Smallest kiwi species reappears on a mainland after fifty years: what we know",
       "lead": "A spotted flightless bird thought to survive only on predator-free islands has been confirmed alive in remote high country. Researchers published additional context as follow-up surveys continued.",
@@ -2058,7 +2002,7 @@
       "popularScore": 719
     },
     {
-      "id": 44,
+      "id": 43,
       "slug": "world-s-smallest-otter-confirmed-in-western-river-systems-explainer-43",
       "title": "World’s smallest otter confirmed in western river systems: explainer",
       "lead": "Tiny clawed otters not documented nationally for more than a century have been verified through photos and spraint analysis. Researchers published additional context as follow-up surveys continued.",
@@ -2105,7 +2049,7 @@
       "popularScore": 715
     },
     {
-      "id": 45,
+      "id": 44,
       "slug": "isolated-hairstreak-butterfly-population-recognized-as-new-species-outlo-44",
       "title": "Isolated hairstreak butterfly population recognized as new species: outlook",
       "lead": "Genetic work showed a grey-brown alpine butterfly is not a known subspecies but a distinct lineage with very low diversity. Researchers published additional context as follow-up surveys continued.",
@@ -2152,7 +2096,7 @@
       "popularScore": 711
     },
     {
-      "id": 46,
+      "id": 45,
       "slug": "snow-leopards-use-stone-outcrops-as-communication-billboards-update-45",
       "title": "Snow leopards use stone outcrops as communication billboards: update",
       "lead": "Motion-triggered cameras reveal big cats rubbing cheeks on fixed rocks along migration paths. Researchers published additional context as follow-up surveys continued.",
@@ -2199,7 +2143,7 @@
       "popularScore": 707
     },
     {
-      "id": 47,
+      "id": 46,
       "slug": "deep-diving-whales-recover-faster-when-shipping-lanes-shift-field-notes-46",
       "title": "Deep-diving whales recover faster when shipping lanes shift: field notes",
       "lead": "A five-year trial rerouting cargo vessels cut underwater noise peaks during calving season. Researchers published additional context as follow-up surveys continued.",
@@ -2246,7 +2190,7 @@
       "popularScore": 703
     },
     {
-      "id": 48,
+      "id": 47,
       "slug": "arctic-terns-complete-pole-to-pole-loop-with-tiny-solar-tags-what-we-kno-47",
       "title": "Arctic terns complete pole-to-pole loop with tiny solar tags: what we know",
       "lead": "Gram-scale trackers show some birds flew more than ninety thousand kilometers in a single year. Researchers published additional context as follow-up surveys continued.",
@@ -2293,7 +2237,7 @@
       "popularScore": 699
     },
     {
-      "id": 49,
+      "id": 48,
       "slug": "shelter-dogs-adopted-in-pairs-show-lower-return-rates-explainer-48",
       "title": "Shelter dogs adopted in pairs show lower return rates: explainer",
       "lead": "A two-year intake study found bonded companions kept stress hormones lower during transport. Researchers published additional context as follow-up surveys continued.",
@@ -2340,7 +2284,7 @@
       "popularScore": 695
     },
     {
-      "id": 50,
+      "id": 49,
       "slug": "firefly-sync-displays-dimmer-where-light-pollution-climbs-outlook-49",
       "title": "Firefly sync displays dimmer where light pollution climbs: outlook",
       "lead": "Long-term luminosity meters tied streetlight upgrades to shorter mating flashes. Researchers published additional context as follow-up surveys continued.",
@@ -2387,7 +2331,7 @@
       "popularScore": 691
     },
     {
-      "id": 51,
+      "id": 50,
       "slug": "softshell-turtles-bask-on-floating-solar-panels-update-50",
       "title": "Softshell turtles bask on floating solar panels: update",
       "lead": "Engineers documenting reservoir arrays found reptiles using warm surfaces above water. Researchers published additional context as follow-up surveys continued.",
@@ -2434,7 +2378,7 @@
       "popularScore": 687
     },
     {
-      "id": 52,
+      "id": 51,
       "slug": "octopus-stacks-stones-outside-den-like-a-garden-wall-field-notes-51",
       "title": "Octopus stacks stones outside den like a garden wall: field notes",
       "lead": "Underwater video shows an individual arranging shells in a semicircle facing prevailing currents. Researchers published additional context as follow-up surveys continued.",
@@ -2481,7 +2425,7 @@
       "popularScore": 683
     },
     {
-      "id": 53,
+      "id": 52,
       "slug": "corridors-link-two-jaguar-populations-across-highway-overpass-what-we-kn-52",
       "title": "Corridors link two jaguar populations across highway overpass: what we know",
       "lead": "Vegetated bridges let large cats move without entering traffic lanes for the first time in a generation. Researchers published additional context as follow-up surveys continued.",
@@ -2528,7 +2472,7 @@
       "popularScore": 679
     },
     {
-      "id": 54,
+      "id": 53,
       "slug": "elephant-matriarchs-remember-drought-water-holes-for-decades-explainer-53",
       "title": "Elephant matriarchs remember drought water holes for decades: explainer",
       "lead": "GPS collars show families returning to hidden springs not used since satellite records began. Researchers published additional context as follow-up surveys continued.",
@@ -2575,7 +2519,7 @@
       "popularScore": 636
     },
     {
-      "id": 55,
+      "id": 54,
       "slug": "sea-otters-anchor-kelp-forests-against-marine-heat-waves-outlook-54",
       "title": "Sea otters anchor kelp forests against marine heat waves: outlook",
       "lead": "Where otters returned, kelp canopy cover stayed twice as high during a record warm period. Researchers published additional context as follow-up surveys continued.",
@@ -2622,7 +2566,7 @@
       "popularScore": 632
     },
     {
-      "id": 56,
+      "id": 55,
       "slug": "urban-falcons-nest-on-cooling-towers-with-steady-updrafts-update-55",
       "title": "Urban falcons nest on cooling towers with steady updrafts: update",
       "lead": "Peregrine pairs chose industrial stacks over cliff faces when thermals remained predictable. Researchers published additional context as follow-up surveys continued.",
@@ -2669,7 +2613,7 @@
       "popularScore": 628
     },
     {
-      "id": 57,
+      "id": 56,
       "slug": "cats-prefer-drinking-from-wide-bowls-placed-away-from-food-field-notes-56",
       "title": "Cats prefer drinking from wide bowls placed away from food: field notes",
       "lead": "A controlled trial measured lapping frequency when bowl shape and location changed. Researchers published additional context as follow-up surveys continued.",
@@ -2716,7 +2660,7 @@
       "popularScore": 624
     },
     {
-      "id": 58,
+      "id": 57,
       "slug": "leafcutter-ants-farm-fungus-strains-resistant-to-invading-parasites-what-57",
       "title": "Leafcutter ants farm fungus strains resistant to invading parasites: what we know",
       "lead": "Lab cultures show colonies swap fungal cultivars after microbe outbreaks. Researchers published additional context as follow-up surveys continued.",
@@ -2763,7 +2707,7 @@
       "popularScore": 620
     },
     {
-      "id": 59,
+      "id": 58,
       "slug": "chameleon-color-change-tied-to-temperature-before-mood-explainer-58",
       "title": "Chameleon color change tied to temperature before mood: explainer",
       "lead": "Skin spectroscopy found heat regulation triggers faster than social signaling. Researchers published additional context as follow-up surveys continued.",
@@ -2810,7 +2754,7 @@
       "popularScore": 616
     },
     {
-      "id": 60,
+      "id": 59,
       "slug": "crows-gift-shiny-objects-to-humans-who-feed-them-regularly-outlook-59",
       "title": "Crows gift shiny objects to humans who feed them regularly: outlook",
       "lead": "Longitudinal notes describe beads and foil left on window sills after predictable snack times. Researchers published additional context as follow-up surveys continued.",
@@ -2857,7 +2801,7 @@
       "popularScore": 612
     },
     {
-      "id": 61,
+      "id": 60,
       "slug": "rewilding-project-releases-beavers-to-slow-flash-floods-update-60",
       "title": "Rewilding project releases beavers to slow flash floods: update",
       "lead": "Dam complexes in upland streams increased water retention time after heavy rain. Researchers published additional context as follow-up surveys continued.",
@@ -2904,7 +2848,7 @@
       "popularScore": 608
     },
     {
-      "id": 62,
+      "id": 61,
       "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-field-not-61",
       "title": "Long-beaked echidna filmed again after decades without records: field notes",
       "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. Researchers published additional context as follow-up surveys continued.",
@@ -2951,7 +2895,7 @@
       "popularScore": 604
     },
     {
-      "id": 63,
+      "id": 62,
       "slug": "smallest-kiwi-species-reappears-on-a-mainland-after-fifty-years-what-we--62",
       "title": "Smallest kiwi species reappears on a mainland after fifty years: what we know",
       "lead": "A spotted flightless bird thought to survive only on predator-free islands has been confirmed alive in remote high country. Researchers published additional context as follow-up surveys continued.",
@@ -2998,7 +2942,7 @@
       "popularScore": 600
     },
     {
-      "id": 64,
+      "id": 63,
       "slug": "world-s-smallest-otter-confirmed-in-western-river-systems-explainer-63",
       "title": "World’s smallest otter confirmed in western river systems: explainer",
       "lead": "Tiny clawed otters not documented nationally for more than a century have been verified through photos and spraint analysis. Researchers published additional context as follow-up surveys continued.",
@@ -3045,7 +2989,7 @@
       "popularScore": 596
     },
     {
-      "id": 65,
+      "id": 64,
       "slug": "isolated-hairstreak-butterfly-population-recognized-as-new-species-outlo-64",
       "title": "Isolated hairstreak butterfly population recognized as new species: outlook",
       "lead": "Genetic work showed a grey-brown alpine butterfly is not a known subspecies but a distinct lineage with very low diversity. Researchers published additional context as follow-up surveys continued.",
@@ -3092,7 +3036,7 @@
       "popularScore": 592
     },
     {
-      "id": 66,
+      "id": 65,
       "slug": "snow-leopards-use-stone-outcrops-as-communication-billboards-update-65",
       "title": "Snow leopards use stone outcrops as communication billboards: update",
       "lead": "Motion-triggered cameras reveal big cats rubbing cheeks on fixed rocks along migration paths. Researchers published additional context as follow-up surveys continued.",
@@ -3139,7 +3083,7 @@
       "popularScore": 588
     },
     {
-      "id": 67,
+      "id": 66,
       "slug": "deep-diving-whales-recover-faster-when-shipping-lanes-shift-field-notes-66",
       "title": "Deep-diving whales recover faster when shipping lanes shift: field notes",
       "lead": "A five-year trial rerouting cargo vessels cut underwater noise peaks during calving season. Researchers published additional context as follow-up surveys continued.",
@@ -3186,7 +3130,7 @@
       "popularScore": 545
     },
     {
-      "id": 68,
+      "id": 67,
       "slug": "arctic-terns-complete-pole-to-pole-loop-with-tiny-solar-tags-what-we-kno-67",
       "title": "Arctic terns complete pole-to-pole loop with tiny solar tags: what we know",
       "lead": "Gram-scale trackers show some birds flew more than ninety thousand kilometers in a single year. Researchers published additional context as follow-up surveys continued.",
@@ -3233,7 +3177,7 @@
       "popularScore": 541
     },
     {
-      "id": 69,
+      "id": 68,
       "slug": "shelter-dogs-adopted-in-pairs-show-lower-return-rates-explainer-68",
       "title": "Shelter dogs adopted in pairs show lower return rates: explainer",
       "lead": "A two-year intake study found bonded companions kept stress hormones lower during transport. Researchers published additional context as follow-up surveys continued.",
@@ -3280,7 +3224,7 @@
       "popularScore": 537
     },
     {
-      "id": 70,
+      "id": 69,
       "slug": "firefly-sync-displays-dimmer-where-light-pollution-climbs-outlook-69",
       "title": "Firefly sync displays dimmer where light pollution climbs: outlook",
       "lead": "Long-term luminosity meters tied streetlight upgrades to shorter mating flashes. Researchers published additional context as follow-up surveys continued.",
@@ -3327,7 +3271,7 @@
       "popularScore": 533
     },
     {
-      "id": 71,
+      "id": 70,
       "slug": "softshell-turtles-bask-on-floating-solar-panels-update-70",
       "title": "Softshell turtles bask on floating solar panels: update",
       "lead": "Engineers documenting reservoir arrays found reptiles using warm surfaces above water. Researchers published additional context as follow-up surveys continued.",
@@ -3374,7 +3318,7 @@
       "popularScore": 529
     },
     {
-      "id": 72,
+      "id": 71,
       "slug": "octopus-stacks-stones-outside-den-like-a-garden-wall-field-notes-71",
       "title": "Octopus stacks stones outside den like a garden wall: field notes",
       "lead": "Underwater video shows an individual arranging shells in a semicircle facing prevailing currents. Researchers published additional context as follow-up surveys continued.",
@@ -3421,7 +3365,7 @@
       "popularScore": 525
     },
     {
-      "id": 73,
+      "id": 72,
       "slug": "corridors-link-two-jaguar-populations-across-highway-overpass-what-we-kn-72",
       "title": "Corridors link two jaguar populations across highway overpass: what we know",
       "lead": "Vegetated bridges let large cats move without entering traffic lanes for the first time in a generation. Researchers published additional context as follow-up surveys continued.",
@@ -3468,7 +3412,7 @@
       "popularScore": 521
     },
     {
-      "id": 74,
+      "id": 73,
       "slug": "elephant-matriarchs-remember-drought-water-holes-for-decades-explainer-73",
       "title": "Elephant matriarchs remember drought water holes for decades: explainer",
       "lead": "GPS collars show families returning to hidden springs not used since satellite records began. Researchers published additional context as follow-up surveys continued.",
@@ -3515,7 +3459,7 @@
       "popularScore": 517
     },
     {
-      "id": 75,
+      "id": 74,
       "slug": "sea-otters-anchor-kelp-forests-against-marine-heat-waves-outlook-74",
       "title": "Sea otters anchor kelp forests against marine heat waves: outlook",
       "lead": "Where otters returned, kelp canopy cover stayed twice as high during a record warm period. Researchers published additional context as follow-up surveys continued.",
@@ -3562,7 +3506,7 @@
       "popularScore": 513
     },
     {
-      "id": 76,
+      "id": 75,
       "slug": "urban-falcons-nest-on-cooling-towers-with-steady-updrafts-update-75",
       "title": "Urban falcons nest on cooling towers with steady updrafts: update",
       "lead": "Peregrine pairs chose industrial stacks over cliff faces when thermals remained predictable. Researchers published additional context as follow-up surveys continued.",
@@ -3609,7 +3553,7 @@
       "popularScore": 509
     },
     {
-      "id": 77,
+      "id": 76,
       "slug": "cats-prefer-drinking-from-wide-bowls-placed-away-from-food-field-notes-76",
       "title": "Cats prefer drinking from wide bowls placed away from food: field notes",
       "lead": "A controlled trial measured lapping frequency when bowl shape and location changed. Researchers published additional context as follow-up surveys continued.",
@@ -3656,7 +3600,7 @@
       "popularScore": 505
     },
     {
-      "id": 78,
+      "id": 77,
       "slug": "leafcutter-ants-farm-fungus-strains-resistant-to-invading-parasites-what-77",
       "title": "Leafcutter ants farm fungus strains resistant to invading parasites: what we know",
       "lead": "Lab cultures show colonies swap fungal cultivars after microbe outbreaks. Researchers published additional context as follow-up surveys continued.",
@@ -3703,7 +3647,7 @@
       "popularScore": 501
     },
     {
-      "id": 79,
+      "id": 78,
       "slug": "chameleon-color-change-tied-to-temperature-before-mood-explainer-78",
       "title": "Chameleon color change tied to temperature before mood: explainer",
       "lead": "Skin spectroscopy found heat regulation triggers faster than social signaling. Researchers published additional context as follow-up surveys continued.",
@@ -3750,7 +3694,7 @@
       "popularScore": 497
     },
     {
-      "id": 80,
+      "id": 79,
       "slug": "crows-gift-shiny-objects-to-humans-who-feed-them-regularly-outlook-79",
       "title": "Crows gift shiny objects to humans who feed them regularly: outlook",
       "lead": "Longitudinal notes describe beads and foil left on window sills after predictable snack times. Researchers published additional context as follow-up surveys continued.",
@@ -3797,7 +3741,7 @@
       "popularScore": 454
     },
     {
-      "id": 81,
+      "id": 80,
       "slug": "rewilding-project-releases-beavers-to-slow-flash-floods-update-80",
       "title": "Rewilding project releases beavers to slow flash floods: update",
       "lead": "Dam complexes in upland streams increased water retention time after heavy rain. Researchers published additional context as follow-up surveys continued.",
@@ -3844,7 +3788,7 @@
       "popularScore": 450
     },
     {
-      "id": 82,
+      "id": 81,
       "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-field-not-81",
       "title": "Long-beaked echidna filmed again after decades without records: field notes",
       "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. Researchers published additional context as follow-up surveys continued.",
@@ -3891,7 +3835,7 @@
       "popularScore": 446
     },
     {
-      "id": 83,
+      "id": 82,
       "slug": "smallest-kiwi-species-reappears-on-a-mainland-after-fifty-years-what-we--82",
       "title": "Smallest kiwi species reappears on a mainland after fifty years: what we know",
       "lead": "A spotted flightless bird thought to survive only on predator-free islands has been confirmed alive in remote high country. Researchers published additional context as follow-up surveys continued.",
@@ -3938,7 +3882,7 @@
       "popularScore": 442
     },
     {
-      "id": 84,
+      "id": 83,
       "slug": "world-s-smallest-otter-confirmed-in-western-river-systems-explainer-83",
       "title": "World’s smallest otter confirmed in western river systems: explainer",
       "lead": "Tiny clawed otters not documented nationally for more than a century have been verified through photos and spraint analysis. Researchers published additional context as follow-up surveys continued.",
@@ -3985,7 +3929,7 @@
       "popularScore": 438
     },
     {
-      "id": 85,
+      "id": 84,
       "slug": "isolated-hairstreak-butterfly-population-recognized-as-new-species-outlo-84",
       "title": "Isolated hairstreak butterfly population recognized as new species: outlook",
       "lead": "Genetic work showed a grey-brown alpine butterfly is not a known subspecies but a distinct lineage with very low diversity. Researchers published additional context as follow-up surveys continued.",
@@ -4032,7 +3976,7 @@
       "popularScore": 434
     },
     {
-      "id": 86,
+      "id": 85,
       "slug": "snow-leopards-use-stone-outcrops-as-communication-billboards-update-85",
       "title": "Snow leopards use stone outcrops as communication billboards: update",
       "lead": "Motion-triggered cameras reveal big cats rubbing cheeks on fixed rocks along migration paths. Researchers published additional context as follow-up surveys continued.",
@@ -4079,7 +4023,7 @@
       "popularScore": 430
     },
     {
-      "id": 87,
+      "id": 86,
       "slug": "deep-diving-whales-recover-faster-when-shipping-lanes-shift-field-notes-86",
       "title": "Deep-diving whales recover faster when shipping lanes shift: field notes",
       "lead": "A five-year trial rerouting cargo vessels cut underwater noise peaks during calving season. Researchers published additional context as follow-up surveys continued.",
@@ -4126,7 +4070,7 @@
       "popularScore": 426
     },
     {
-      "id": 88,
+      "id": 87,
       "slug": "arctic-terns-complete-pole-to-pole-loop-with-tiny-solar-tags-what-we-kno-87",
       "title": "Arctic terns complete pole-to-pole loop with tiny solar tags: what we know",
       "lead": "Gram-scale trackers show some birds flew more than ninety thousand kilometers in a single year. Researchers published additional context as follow-up surveys continued.",
@@ -4173,7 +4117,7 @@
       "popularScore": 422
     },
     {
-      "id": 89,
+      "id": 88,
       "slug": "shelter-dogs-adopted-in-pairs-show-lower-return-rates-explainer-88",
       "title": "Shelter dogs adopted in pairs show lower return rates: explainer",
       "lead": "A two-year intake study found bonded companions kept stress hormones lower during transport. Researchers published additional context as follow-up surveys continued.",
@@ -4220,7 +4164,7 @@
       "popularScore": 418
     },
     {
-      "id": 90,
+      "id": 89,
       "slug": "firefly-sync-displays-dimmer-where-light-pollution-climbs-outlook-89",
       "title": "Firefly sync displays dimmer where light pollution climbs: outlook",
       "lead": "Long-term luminosity meters tied streetlight upgrades to shorter mating flashes. Researchers published additional context as follow-up surveys continued.",
@@ -4267,7 +4211,7 @@
       "popularScore": 414
     },
     {
-      "id": 91,
+      "id": 90,
       "slug": "softshell-turtles-bask-on-floating-solar-panels-update-90",
       "title": "Softshell turtles bask on floating solar panels: update",
       "lead": "Engineers documenting reservoir arrays found reptiles using warm surfaces above water. Researchers published additional context as follow-up surveys continued.",
@@ -4314,7 +4258,7 @@
       "popularScore": 410
     },
     {
-      "id": 92,
+      "id": 91,
       "slug": "octopus-stacks-stones-outside-den-like-a-garden-wall-field-notes-91",
       "title": "Octopus stacks stones outside den like a garden wall: field notes",
       "lead": "Underwater video shows an individual arranging shells in a semicircle facing prevailing currents. Researchers published additional context as follow-up surveys continued.",
@@ -4361,7 +4305,7 @@
       "popularScore": 406
     },
     {
-      "id": 93,
+      "id": 92,
       "slug": "corridors-link-two-jaguar-populations-across-highway-overpass-what-we-kn-92",
       "title": "Corridors link two jaguar populations across highway overpass: what we know",
       "lead": "Vegetated bridges let large cats move without entering traffic lanes for the first time in a generation. Researchers published additional context as follow-up surveys continued.",
@@ -4408,7 +4352,7 @@
       "popularScore": 363
     },
     {
-      "id": 94,
+      "id": 93,
       "slug": "elephant-matriarchs-remember-drought-water-holes-for-decades-explainer-93",
       "title": "Elephant matriarchs remember drought water holes for decades: explainer",
       "lead": "GPS collars show families returning to hidden springs not used since satellite records began. Researchers published additional context as follow-up surveys continued.",
@@ -4455,7 +4399,7 @@
       "popularScore": 359
     },
     {
-      "id": 95,
+      "id": 94,
       "slug": "sea-otters-anchor-kelp-forests-against-marine-heat-waves-outlook-94",
       "title": "Sea otters anchor kelp forests against marine heat waves: outlook",
       "lead": "Where otters returned, kelp canopy cover stayed twice as high during a record warm period. Researchers published additional context as follow-up surveys continued.",
@@ -4502,7 +4446,7 @@
       "popularScore": 355
     },
     {
-      "id": 96,
+      "id": 95,
       "slug": "urban-falcons-nest-on-cooling-towers-with-steady-updrafts-update-95",
       "title": "Urban falcons nest on cooling towers with steady updrafts: update",
       "lead": "Peregrine pairs chose industrial stacks over cliff faces when thermals remained predictable. Researchers published additional context as follow-up surveys continued.",
@@ -4549,7 +4493,7 @@
       "popularScore": 351
     },
     {
-      "id": 97,
+      "id": 96,
       "slug": "cats-prefer-drinking-from-wide-bowls-placed-away-from-food-field-notes-96",
       "title": "Cats prefer drinking from wide bowls placed away from food: field notes",
       "lead": "A controlled trial measured lapping frequency when bowl shape and location changed. Researchers published additional context as follow-up surveys continued.",
@@ -4596,7 +4540,7 @@
       "popularScore": 347
     },
     {
-      "id": 98,
+      "id": 97,
       "slug": "leafcutter-ants-farm-fungus-strains-resistant-to-invading-parasites-what-97",
       "title": "Leafcutter ants farm fungus strains resistant to invading parasites: what we know",
       "lead": "Lab cultures show colonies swap fungal cultivars after microbe outbreaks. Researchers published additional context as follow-up surveys continued.",
@@ -4643,7 +4587,7 @@
       "popularScore": 343
     },
     {
-      "id": 99,
+      "id": 98,
       "slug": "chameleon-color-change-tied-to-temperature-before-mood-explainer-98",
       "title": "Chameleon color change tied to temperature before mood: explainer",
       "lead": "Skin spectroscopy found heat regulation triggers faster than social signaling. Researchers published additional context as follow-up surveys continued.",
@@ -4690,7 +4634,7 @@
       "popularScore": 339
     },
     {
-      "id": 100,
+      "id": 99,
       "slug": "crows-gift-shiny-objects-to-humans-who-feed-them-regularly-outlook-99",
       "title": "Crows gift shiny objects to humans who feed them regularly: outlook",
       "lead": "Longitudinal notes describe beads and foil left on window sills after predictable snack times. Researchers published additional context as follow-up surveys continued.",
@@ -4737,7 +4681,7 @@
       "popularScore": 335
     },
     {
-      "id": 101,
+      "id": 100,
       "slug": "rewilding-project-releases-beavers-to-slow-flash-floods-update-100",
       "title": "Rewilding project releases beavers to slow flash floods: update",
       "lead": "Dam complexes in upland streams increased water retention time after heavy rain. Researchers published additional context as follow-up surveys continued.",
