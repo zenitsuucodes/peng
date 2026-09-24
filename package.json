@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "generate:articles": "node scripts/generateArticles.mjs",
-    "prebuild": "node scripts/generateArticles.mjs",
+    "prebuild": "node scripts/generateArticles.mjs && node scripts/copyCatalog.mjs",
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
