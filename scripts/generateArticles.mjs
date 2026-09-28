@@ -16,14 +16,14 @@ const site = {
 }
 
 const categories = [
-  { id: 'wildlife', name: 'Wildlife', color: '#0d9488' },
-  { id: 'marine', name: 'Marine Life', color: '#0284c7' },
-  { id: 'birds', name: 'Birds', color: '#7c3aed' },
-  { id: 'pets', name: 'Pets & Companions', color: '#db2777' },
-  { id: 'conservation', name: 'Conservation', color: '#059669' },
-  { id: 'oddities', name: 'Odd & Amazing', color: '#ea580c' },
-  { id: 'reptiles', name: 'Reptiles & Amphibians', color: '#65a30d' },
-  { id: 'insects', name: 'Insects & Spiders', color: '#ca8a04' },
+  { id: 'wildlife', name: 'Wildlife', color: '#dc2626' },
+  { id: 'marine', name: 'Marine Life', color: '#b91c1c' },
+  { id: 'birds', name: 'Birds', color: '#991b1b' },
+  { id: 'pets', name: 'Pets & Companions', color: '#e11d48' },
+  { id: 'conservation', name: 'Conservation', color: '#be123c' },
+  { id: 'oddities', name: 'Odd & Amazing', color: '#c2410c' },
+  { id: 'reptiles', name: 'Reptiles & Amphibians', color: '#9f1239' },
+  { id: 'insects', name: 'Insects & Spiders', color: '#7f1d1d' },
 ]
 
 const categoryFallbackQuery = {

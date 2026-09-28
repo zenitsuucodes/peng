@@ -14,60 +14,57 @@ import {
 export default function Home() {
   const featured = getFeatured()
   const [hero, ...restFeatured] = featured
-  const latest = getLatest(12)
-  const popular = getPopular(8)
-  const groups = groupByCategory(4)
+  const latest = getLatest(10)
+  const popular = getPopular(7)
+  const groups = groupByCategory(6)
 
   return (
     <div className="page-home">
       <BreakingBar />
       <div className="container">
         <FeaturedHero article={hero} secondary={restFeatured.slice(0, 4)} />
+      </div>
 
-        <div className="home-grid">
-          <div className="home-main">
-            <section className="block">
-              <div className="block-head">
-                <h2 className="section-title">Latest stories</h2>
-                <span className="block-count">{allArticles.length} articles</span>
+      <div className="container home-layout">
+        <aside className="home-sidebar">
+          <RankingList articles={popular} />
+          <section className="aside-box aside-box--accent">
+            <h2 className="section-title section-title--sm">The Peng brief</h2>
+            <p>
+              Sharp daily coverage of wildlife, oceans, birds, and conservation — written for
+              readers who want the living world explained clearly.
+            </p>
+          </section>
+        </aside>
+
+        <div className="home-stream">
+          <section className="block block--feed">
+            <div className="block-head block-head--rule">
+              <h2 className="section-title">Latest dispatch</h2>
+              <span className="block-count">{allArticles.length} stories</span>
+            </div>
+            <div className="feed-list">
+              {latest.map((a) => (
+                <ArticleCard key={a.id} article={a} variant="row" />
+              ))}
+            </div>
+          </section>
+
+          {groups.map((g) => (
+            <section className="block block--strip" key={g.id}>
+              <div className="block-head block-head--rule">
+                <h2 className="section-title">{g.name}</h2>
+                <Link to={`/category/${g.id}`} className="more-link">
+                  All {g.name.toLowerCase()} →
+                </Link>
               </div>
-              <div className="card-grid">
-                {latest.map((a) => (
-                  <ArticleCard key={a.id} article={a} />
+              <div className="strip-scroll">
+                {g.articles.map((a) => (
+                  <ArticleCard key={a.id} article={a} variant="strip" />
                 ))}
               </div>
             </section>
-
-            {groups.map((g) => (
-              <section className="block category-block" key={g.id}>
-                <div className="block-head">
-                  <h2 className="section-title">
-                    <span className="cat-bar" style={{ background: g.color }} />
-                    {g.name}
-                  </h2>
-                  <Link to={`/category/${g.id}`} className="more-link">
-                    View all
-                  </Link>
-                </div>
-                <div className="card-grid card-grid--4">
-                  {g.articles.map((a) => (
-                    <ArticleCard key={a.id} article={a} variant="compact" />
-                  ))}
-                </div>
-              </section>
-            ))}
-          </div>
-
-          <aside className="home-aside">
-            <RankingList articles={popular} />
-            <section className="aside-box">
-              <h2 className="section-title">About Peng</h2>
-              <p>
-                Peng is your daily feed of wildlife, ocean life, birds, pets, and the strange
-                wonders of the animal kingdom — told in plain language with room for every species.
-              </p>
-            </section>
-          </aside>
+          ))}
         </div>
       </div>
     </div>

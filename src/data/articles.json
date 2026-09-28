@@ -7,42 +7,42 @@
     {
       "id": "wildlife",
       "name": "Wildlife",
-      "color": "#0d9488"
+      "color": "#dc2626"
     },
     {
       "id": "marine",
       "name": "Marine Life",
-      "color": "#0284c7"
+      "color": "#b91c1c"
     },
     {
       "id": "birds",
       "name": "Birds",
-      "color": "#7c3aed"
+      "color": "#991b1b"
     },
     {
       "id": "pets",
       "name": "Pets & Companions",
-      "color": "#db2777"
+      "color": "#e11d48"
     },
     {
       "id": "conservation",
       "name": "Conservation",
-      "color": "#059669"
+      "color": "#be123c"
     },
     {
       "id": "oddities",
       "name": "Odd & Amazing",
-      "color": "#ea580c"
+      "color": "#c2410c"
     },
     {
       "id": "reptiles",
       "name": "Reptiles & Amphibians",
-      "color": "#65a30d"
+      "color": "#9f1239"
     },
     {
       "id": "insects",
       "name": "Insects & Spiders",
-      "color": "#ca8a04"
+      "color": "#7f1d1d"
     }
   ],
   "generatedAt": "2026-09-28T03:02:34.664Z",
