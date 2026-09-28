@@ -45,60 +45,14 @@
       "color": "#7f1d1d"
     }
   ],
-  "generatedAt": "2026-09-28T03:02:34.664Z",
+  "generatedAt": "2026-09-28T05:26:52.962Z",
   "articles": [
-    {
-      "id": 1,
-      "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-1",
-      "title": "Long-beaked echidna filmed again after decades without records",
-      "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost.",
-      "body": [
-        "The first reports sounded routine until the details stopped lining up. Readers following large mammals, secretive forest dwellers, and wide-ranging predators have watched similar headlines fade; this one accumulated enough proof to stand.",
-        "The central claim is straightforward: camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. For specialists, the surprise was not that animals adapt, but that the evidence surfaced now, in places that had been written off as already surveyed.",
-        "What the record shows",
-        "Field teams paired interviews with local residents and automated cameras across steep rainforest terrain. Crews revisited the site after weather windows closed, confirming that the behavior or presence was repeatable rather than a one-day anomaly.",
-        "Secondary signs—wear on trails, feeding leftovers, or matching calls—helped rule out mistaken identity, a common pitfall when light is poor or cameras glitch.",
-        "The animal belongs to a small group of monotremes that lay eggs and use electroreception while foraging. That detail matters because it links this finding to wider population health, not just a single lucky encounter.",
-        "How the work unfolded",
-        "Where direct contact was risky, crews relied on remote sensors, hair snags, or short visits at dawn and dusk.",
-        "Project leads kept field notes public enough for peer review yet vague on exact coordinates, a balance meant to protect animals from crowds while still allowing science to move forward.",
-        "Subfossil bones found far from the current range suggest the species once occupied a wider area. Independent reviewers asked for raw timestamps and chain-of-custody logs before signing off on the summary.",
-        "Ecology in plain terms",
-        "Animals in this category often depend on conditions people barely notice: soil moisture, insect blooms, or the timing of fruiting trees. When one layer shifts, the effects show up months later in birth rates, weight, or travel distance.",
-        "Researchers say population size and main threats remain unknown, so protection plans must move quickly. Local ecologists note that such shifts rarely have a single cause; they emerge where habitat loss meets weather extremes and human infrastructure.",
-        "Pressure points",
-        "Political turnover can pause programs even when animals keep using the same routes each season.",
-        "Follow-up work will map habitat, train community rangers, and reduce hunting pressure on forest corridors. Mitigation plans now treat that risk as urgent rather than theoretical, with checkpoints scheduled each quarter.",
-        "On the ground",
-        "Field staff describe long days: batteries swapped before dawn, mud on boots, and the quiet patience required when an animal may appear once in a month of recording. None of that detail makes the headline, yet it explains why confident announcements arrive late rather than early.",
-        "When locals are included early, reports improve. People who farm, fish, or walk the same paths often notice subtle shifts—missing calls, new scat, or an old den reopened—before instruments do.",
-        "That partnership also sets boundaries. The goal is observation without habituation: animals should not learn to beg, and sensitive sites stay off public maps even when interest spikes online.",
-        "What could change next",
-        "Educators are preparing plain-language guides so neighbors know what to report—and what to leave undisturbed.",
-        "Policy moves slowly, yet small wins—fencing gaps fixed, lights shielded, boats rerouted—can give animals breathing room while larger agreements are negotiated.",
-        "Long-form monitoring plans now stretch five to ten years, long enough to separate a lucky year from a genuine recovery. Short projects still matter, but they are treated as stepping stones rather than final verdicts.",
-        "For now, the headline—“Long-beaked echidna filmed again after decades without records”—captures a moment when hidden lives met open scrutiny. The longer arc will depend on whether habitats stay connected, whether noise and light stay within bounds, and whether the public treats rare sightings as reasons to protect rather than pursue."
-      ],
-      "category": "wildlife",
-      "publishedAt": "2026-09-24",
-      "readMinutes": 7,
-      "image": {
-        "url": "https://live.staticflickr.com/4429/36229037420_887a2bf5e8_b.jpg",
-        "alt": "Long-beaked echidna filmed again after decades without records"
-      },
-      "tags": [
-        "wildlife",
-        "echidna-zaglossus"
-      ],
-      "featured": true,
-      "popularScore": 1000
-    },
     {
       "slug": "miko-pygmy-hippo",
       "title": "Researchers Investigate Possible New Species of Pygmy Hippopotamus",
       "lead": "An unusually small hippopotamus discovered in the remote forests of Sapo National Park in southeastern Liberia has prompted an investigation into whether the animal could represent a previously undocumented species of pygmy hippopotamus.",
       "category": "wildlife",
-      "publishedAt": "2026-09-24",
+      "publishedAt": "2026-09-28",
       "readMinutes": 8,
       "featured": true,
       "popularScore": 1100,
@@ -147,7 +101,53 @@
         "Until then, Miko represents an intriguing biological mystery emerging from one of West Africa’s most important remaining rainforest ecosystems.",
         "If genetic testing ultimately confirms that she belongs to a previously unknown species, the tiny hippo discovered beside a forest waterway in Liberia could become one of the most remarkable mammal discoveries in recent history."
       ],
-      "id": 2
+      "id": 1
+    },
+    {
+      "id": 2,
+      "slug": "long-beaked-echidna-filmed-again-after-decades-without-records-1",
+      "title": "Long-beaked echidna filmed again after decades without records",
+      "lead": "Camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost.",
+      "body": [
+        "The first reports sounded routine until the details stopped lining up. Readers following large mammals, secretive forest dwellers, and wide-ranging predators have watched similar headlines fade; this one accumulated enough proof to stand.",
+        "The central claim is straightforward: camera traps in a remote mountain range captured the first modern images of a critically endangered egg-laying mammal long treated as lost. For specialists, the surprise was not that animals adapt, but that the evidence surfaced now, in places that had been written off as already surveyed.",
+        "What the record shows",
+        "Field teams paired interviews with local residents and automated cameras across steep rainforest terrain. Crews revisited the site after weather windows closed, confirming that the behavior or presence was repeatable rather than a one-day anomaly.",
+        "Secondary signs—wear on trails, feeding leftovers, or matching calls—helped rule out mistaken identity, a common pitfall when light is poor or cameras glitch.",
+        "The animal belongs to a small group of monotremes that lay eggs and use electroreception while foraging. That detail matters because it links this finding to wider population health, not just a single lucky encounter.",
+        "How the work unfolded",
+        "Where direct contact was risky, crews relied on remote sensors, hair snags, or short visits at dawn and dusk.",
+        "Project leads kept field notes public enough for peer review yet vague on exact coordinates, a balance meant to protect animals from crowds while still allowing science to move forward.",
+        "Subfossil bones found far from the current range suggest the species once occupied a wider area. Independent reviewers asked for raw timestamps and chain-of-custody logs before signing off on the summary.",
+        "Ecology in plain terms",
+        "Animals in this category often depend on conditions people barely notice: soil moisture, insect blooms, or the timing of fruiting trees. When one layer shifts, the effects show up months later in birth rates, weight, or travel distance.",
+        "Researchers say population size and main threats remain unknown, so protection plans must move quickly. Local ecologists note that such shifts rarely have a single cause; they emerge where habitat loss meets weather extremes and human infrastructure.",
+        "Pressure points",
+        "Political turnover can pause programs even when animals keep using the same routes each season.",
+        "Follow-up work will map habitat, train community rangers, and reduce hunting pressure on forest corridors. Mitigation plans now treat that risk as urgent rather than theoretical, with checkpoints scheduled each quarter.",
+        "On the ground",
+        "Field staff describe long days: batteries swapped before dawn, mud on boots, and the quiet patience required when an animal may appear once in a month of recording. None of that detail makes the headline, yet it explains why confident announcements arrive late rather than early.",
+        "When locals are included early, reports improve. People who farm, fish, or walk the same paths often notice subtle shifts—missing calls, new scat, or an old den reopened—before instruments do.",
+        "That partnership also sets boundaries. The goal is observation without habituation: animals should not learn to beg, and sensitive sites stay off public maps even when interest spikes online.",
+        "What could change next",
+        "Educators are preparing plain-language guides so neighbors know what to report—and what to leave undisturbed.",
+        "Policy moves slowly, yet small wins—fencing gaps fixed, lights shielded, boats rerouted—can give animals breathing room while larger agreements are negotiated.",
+        "Long-form monitoring plans now stretch five to ten years, long enough to separate a lucky year from a genuine recovery. Short projects still matter, but they are treated as stepping stones rather than final verdicts.",
+        "For now, the headline—“Long-beaked echidna filmed again after decades without records”—captures a moment when hidden lives met open scrutiny. The longer arc will depend on whether habitats stay connected, whether noise and light stay within bounds, and whether the public treats rare sightings as reasons to protect rather than pursue."
+      ],
+      "category": "wildlife",
+      "publishedAt": "2026-09-24",
+      "readMinutes": 7,
+      "image": {
+        "url": "https://live.staticflickr.com/4429/36229037420_887a2bf5e8_b.jpg",
+        "alt": "Long-beaked echidna filmed again after decades without records"
+      },
+      "tags": [
+        "wildlife",
+        "echidna-zaglossus"
+      ],
+      "featured": true,
+      "popularScore": 1000
     },
     {
       "id": 3,
